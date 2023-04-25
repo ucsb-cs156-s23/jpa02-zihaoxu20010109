@@ -4,7 +4,6 @@ Repo: https://github.com/ucsb-cs156-s23/jpa02-zihaoxu20010109
 
 Deployed at: https://jpa02h-zihaoxu.herokuapp.com
 
-
 # About this repo
 
 This is a minimal "Hello World" type webapp built with Spring Boot.
